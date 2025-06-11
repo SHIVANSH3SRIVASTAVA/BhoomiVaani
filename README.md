@@ -19,14 +19,9 @@
 
 ## 📁 Structure
 
-
 app/
 ├── main.py
 ├── stt.py
 ├── tts.py
 ├── langchain_rag.py
 ├── prediction.py
-data/ # Your PDFs or CSVs for RAG
-models/ # Crop/weather trained models
-notebooks/ # ML training notebook
-requirements.txt

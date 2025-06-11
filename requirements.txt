@@ -1,0 +1,11 @@
+langchain
+openai
+whisper
+vosk
+gTTS
+scikit-learn
+pandas
+xgboost
+lightgbm
+flask
+faiss-cpu
